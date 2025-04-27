@@ -5,11 +5,21 @@
 이 문서는 Swift에서 `Unicode.Scalar` 타입을 이해하고, 이를 활용하여 문자열을 보다 세밀하게 다루는 방법을 소개합니다.  
 
 이 문서를 통해 다음을 얻을 수 있습니다:
+> - Unicode 배경에 대한 이해
+> - Unicode 스칼라(Unicode Scalar)와 그 역할에 대한 이해
+> - `Unicode.Scalar` 타입이 제공하는 주요 기능 파악
+> - 실제 코드 예시를 통한 `Unicode.Scalar` 활용법 습득
 
-- Unicode 배경에 대한 이해
-- Unicode 스칼라(Unicode Scalar)와 그 역할에 대한 이해
-- `Unicode.Scalar` 타입이 제공하는 주요 기능 파악
-- 실제 코드 예시를 통한 `Unicode.Scalar` 활용법 습득
+### 순서
+[Unicode 개요](#unicode-개요)  
+[Unicode.Scalar 기본 개념](#unicodescalar의-기본-개념)  
+[Unicode.Scalar가 제공하는 기능](#unicodescalar가-제공하는-기능)  
+[Unicode.Scalar 기본 활용](#unicodescalar의-기본-활용)  
+[예시 코드](#예시-코드)  
+
+### 샘플 프로젝트
+
+[Unicode.Scalar 샘플 프로젝트](../sample-projects/SwiftDeepDive1-UnicodeScalar/)
 
 <br>
 
