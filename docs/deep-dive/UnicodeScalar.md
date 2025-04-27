@@ -1,0 +1,2 @@
+# Swift Unicode.Scalar
+
