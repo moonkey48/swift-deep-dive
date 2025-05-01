@@ -81,7 +81,7 @@ struct MatchedSource: View {
 
 |withAnimation만 사용한 경우|matchedGeometryEffect를 사용한 경우|
 |------|---|
-|<img src='/docs/screenshorts/fluid-interface/ball-notApplied.gif'>|<img src='/docs/screenshorts/fluid-interface/ball-applied.gif.gif'>|
+|<img src='/docs/screenshorts/fluid-interface/ball-notApplied.gif'>|<img src='/docs/screenshorts/fluid-interface/ball-applied.gif'>|
 
 
 ## 사용 시 유의 점
