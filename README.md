@@ -10,3 +10,4 @@ iOS 개발을 하면서 마주하는 다양한 문제를 깊게 파고듭니다.
 
 ### SwiftUI
 
+[Fluid Interfaces: @Namespace & matchedGeometryEffect](/docs/deep-dive/Namespace&MatchedGeometry.md)
